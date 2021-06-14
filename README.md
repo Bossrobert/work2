@@ -41,6 +41,7 @@
 [Central Western Daily](https://www.centralwesterndaily.com.au)\
 [Chemical & Engineering News](https://cen.acs.org)\
 [Chicago Tribune](https://www.chicagotribune.com)\
+[CNBC](https://www.cnbc.com)\
 [Corriere Della Sera](https://www.corriere.it)\
 [Crain's Chicago Business](https://www.chicagobusiness.com)\
 [Daily Press](https://www.dailypress.com)\

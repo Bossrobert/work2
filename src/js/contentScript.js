@@ -667,6 +667,12 @@ if (matchDomain('elmercurio.com')) {
   if (paywall || incognitoWall) {
     document.body.removeAttribute('style');
   }
+} else if(matchDomain('cnbc.com')) {
+  const subscription = document.querySelector('div[class*="bxc"]');
+  removeDOMElement(subscription);
+
+  const progate = document.querySelector('div[class*="ProGate"]');
+  removeDOMElement(progate);
 }
 
 function matchDomain (domains) {
