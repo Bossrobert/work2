@@ -16,6 +16,7 @@ const defaultSites = {
   'Central Western Daily': 'centralwesterndaily.com.au',
   'Chemical & Engineering News': 'cen.acs.org',
   'Chicago Tribune': 'chicagotribune.com',
+  'CNBC': 'cnbc.com',
   'Corriere Della Sera': 'corriere.it',
   'Crain\'s Chicago Business': 'chicagobusiness.com',
   'Daily Press': 'dailypress.com',
