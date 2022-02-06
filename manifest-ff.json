@@ -71,7 +71,9 @@
     "*://*.sueddeutsche.de/*",
     "*://*.elmundo.es/*",
     "*://*.time.com/*",
-    "*://*.expansion.com/*"
+    "*://*.expansion.com/*",
+    "*://*.foreignpolicy.com/*",
+    "*://*.bostonglobe.com/*"
     ],
       "js": ["src/js/contentScript.js"]
     }
@@ -121,7 +123,6 @@
     "*://*.adelaidenow.com.au/*",
     "*://*.adweek.com/*",
     "*://*.afr.com/*",
-    "*://*.asia.nikkei.com/*",
     "*://*.baltimoresun.com/*",
     "*://*.barrons.com/*",
     "*://*.bizjournals.com/*",
@@ -192,6 +193,7 @@
     "*://*.medscape.com/*",
     "*://*.mercurynews.com/*",
     "*://*.mv-voice.com/*",
+    "*://*.nationalgeographic.com",
     "*://*.nationalpost.com/*",
     "*://*.news-gazette.com/*",
     "*://*.newstatesman.com/*",
@@ -242,7 +244,6 @@
     "*://*.thenational.scot/*",
     "*://*.thesaturdaypaper.com.au/*",
     "*://*.thestar.com/*",
-    "*://*.thetimes.co.uk/*",
     "*://*.thewrap.com/*",
     "*://*.tijd.be/*",
     "*://*.towardsdatascience.com/*",

@@ -15,7 +15,7 @@
 1. Drag the `bypass-paywalls-chrome-master` folder anywhere on the page to import it (do not delete the folder afterwards).
 
 **Mozilla Firefox** (Custom sites not supported)
-* [Download the latest version from the Firefox add-ons store](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-firefox/)
+* [Download and install the latest version](https://github.com/iamadamdev/bypass-paywalls-chrome/releases/latest/download/bypass-paywalls-firefox.xpi)
 
 **Notes**
 * Every time you open Chrome it may warn you about running extensions in developer mode, just click &#10005; to keep the extension enabled.
@@ -28,12 +28,13 @@
 [Adweek](https://www.adweek.com)\
 [Algemeen Dagblad](https://www.ad.nl)\
 [American Banker](https://www.americanbanker.com)\
-[Ámbito](https://www.ambito.com/)\
+[Ámbito](https://www.ambito.com)\
 [Baltimore Sun](https://www.baltimoresun.com)\
 [Barron's](https://www.barrons.com)\
 [Bloomberg Quint](https://www.bloombergquint.com)\
 [Bloomberg](https://www.bloomberg.com)\
 [BN De Stem](https://www.bndestem.nl)\
+[Boston Globe](https://www.bostonglobe.com)\
 [Brabants Dagblad](https://www.bd.nl)\
 [Brisbane Times](https://www.brisbanetimes.com.au)\
 [Business Insider](https://www.businessinsider.com)\
@@ -53,12 +54,12 @@
 [DeMorgen](https://www.demorgen.be)\
 [Denver Post](https://www.denverpost.com)\
 [Diario Financiero](https://www.df.cl)\
-[Domani](https://www.editorialedomani.it/)\
+[Domani](https://www.editorialedomani.it)\
 [Dynamed Plus](https://www.dynamed.com)\
 [Eindhovens Dagblad](https://www.ed.nl)\
 [El Mercurio](https://www.elmercurio.com)\
-[El Pais](https://www.elpais.com/)\
-[El Periodico](https://www.elperiodico.com/)\
+[El Pais](https://www.elpais.com)\
+[El Periodico](https://www.elperiodico.com)\
 [Elu24](https://www.elu24.ee)\
 [Encyclopedia Britannica](https://www.britannica.com)\
 [Estadão](https://www.estadao.com.br)\
@@ -95,7 +96,7 @@
 [La Repubblica](https://www.repubblica.it)\
 [La Stampa](https://www.lastampa.it)\
 [La Tercera](https://www.latercera.com)\
-[La Voix du Nord](https://www.lavoixdunord.fr/)\
+[La Voix du Nord](https://www.lavoixdunord.fr)\
 [Le Devoir](https://www.ledevoir.com)\
 [Le Parisien](https://www.leparisien.fr)\
 [Les Échos](https://www.lesechos.fr)\
@@ -108,14 +109,14 @@
 [Medscape](https://www.medscape.com)\
 [Mexicon News Daily](https://mexiconewsdaily.com)\
 [Mountain View Voice](https://www.mv-voice.com)\
-[New York Daily News](https://www.nydailynews.com/)\
+[National Geographic](https://www.nationalgeographic.com)\
+[New York Daily News](https://www.nydailynews.com)\
 [NRC Handelsblad](https://www.nrc.nl)\
 [NT News](https://www.ntnews.com.au)\
 [National Post](https://www.nationalpost.com)\
 [Neue Zürcher Zeitung](https://www.nzz.ch)\
 [New York Magazine](https://www.nymag.com)\
 [New Zealand Herald](https://www.nzherald.co.nz)\
-[Nikkei Asian Review](https://asia.nikkei.com)\
 [Orange County Register](https://www.ocregister.com)\
 [Orlando Sentinel](https://www.orlandosentinel.com)\
 [PZC](https://www.pzc.nl)\
@@ -176,7 +177,6 @@
 [The Spectator](https://www.spectator.co.uk)\
 [The Sydney Morning Herald](https://www.smh.com.au)\
 [The Telegraph](https://www.telegraph.co.uk)\
-[The Times](https://www.thetimes.co.uk)\
 [The Toronto Star](https://www.thestar.com)\
 [The Wall Street Journal](https://www.wsj.com)\
 [The Washington Post](https://www.washingtonpost.com)\
@@ -188,7 +188,7 @@
 [Tubantia](https://www.tubantia.nl)\
 [Vanity Fair](https://www.vanityfair.com)\
 [Vrij Nederland](https://www.vn.nl)\
-[Vulture](https://www.vulture.com/)\
+[Vulture](https://www.vulture.com)\
 [Winston-Salem Journal](https://journalnow.com)\
 [Wired](https://www.wired.com)\
 [World Politics Review](https://www.worldpoliticsreview.com)\
