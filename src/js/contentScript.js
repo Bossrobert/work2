@@ -954,7 +954,7 @@ if (matchDomain("elmercurio.com")) {
   }
 
   // UnBlur all the numbers
-	const blurredSpanArray = document.querySelectorAll("span.blur_num").forEach(function (el) {
+	document.querySelectorAll("span.blur_num").forEach(function (el) {
 		el.classList.remove('blur_num');
 	});
 }
