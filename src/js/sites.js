@@ -79,6 +79,7 @@ const defaultSites = {
   'London Review of Books': 'lrb.co.uk',
   'Los Angeles Business Journal': 'labusinessjournal.com',
   'Los Angeles Times': 'latimes.com',
+  'Market Chameleon': 'marketchameleon.com',
   'Medium': 'medium.com',
   'Medscape': 'medscape.com',
   'Mexico News Daily': 'mexiconewsdaily.com',
