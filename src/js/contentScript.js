@@ -937,7 +937,9 @@ if (matchDomain("elmercurio.com")) {
 		removeDOMElement(...premiumPopArray);
 	}
 
-  const premiumOverlayArray = document.querySelectorAll("div.prem_only_overlay");
+	const premiumOverlayArray = document.querySelectorAll(
+		"div.prem_only_overlay"
+	);
 	if (premiumOverlayArray) {
 		removeDOMElement(...premiumOverlayArray);
 	}
@@ -947,16 +949,24 @@ if (matchDomain("elmercurio.com")) {
 		el.removeAttribute("disabled");
 	});
 
-  //Get all the Anchors to Subscription Links
-  const anchorArray = document.querySelectorAll("a[href='/Subscription/TotalAccess?ref=home-oneclickfilter']")
-  if(anchorArray){
-    removeDOMElement(...anchorArray)
-  }
+	//Get all the Anchors to Subscription Links
+	const anchorArray = document.querySelectorAll(
+		"a[href='/Subscription/TotalAccess?ref=home-oneclickfilter']"
+	);
+	if (anchorArray) {
+		removeDOMElement(...anchorArray);
+	}
 
-  // UnBlur all the numbers
+	// UnBlur all the numbers
 	document.querySelectorAll("span.blur_num").forEach(function (el) {
-		el.classList.remove('blur_num');
+		el.classList.remove("blur_num");
 	});
+} else if (matchDomain("tradingview.com")) {
+	// Rid of the popup message in the bottom dash.
+	const toast = document.querySelector("div[data-role='toast-container']");
+	if (toast) {
+		removeDOMElement(toast);
+	}
 }
 
 function matchDomain(domains) {

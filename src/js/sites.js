@@ -164,6 +164,7 @@ const defaultSites = {
   'The Wrap': 'thewrap.com',
   'Times Literary Supplement': 'the-tls.co.uk',
   'Towards Data Science': 'towardsdatascience.com',
+  'Trading View': 'tradingview.com',
   'Trouw': 'trouw.nl',
   'Tubantia': 'tubantia.nl',
   'Vanity Fair': 'vanityfair.com',
