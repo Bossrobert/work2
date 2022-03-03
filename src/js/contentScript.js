@@ -967,6 +967,11 @@ if (matchDomain("elmercurio.com")) {
 	if (toast) {
 		removeDOMElement(toast);
 	}
+
+	const joiningMsg = document.querySelector('div[class^="modal-"]');
+	if (joiningMsg) {
+		removeDOMElement(joiningMsg);
+	}
 }
 
 function matchDomain(domains) {
