@@ -972,6 +972,25 @@ if (matchDomain("elmercurio.com")) {
 	if (joiningMsg) {
 		removeDOMElement(joiningMsg);
 	}
+} else if (matchDomain("barchart.com")) {
+	const topBannerAds = document.querySelectorAll(".hide-for-print");
+	if (topBannerAds) {
+		removeDOMElement(...topBannerAds);
+	}
+	const rightColumnAds = document.querySelector(
+		".small-12.columns.right-column"
+	);
+	if (rightColumnAds) {
+		removeDOMElement(rightColumnAds);
+	}
+	const tileAds = document.querySelectorAll(".ads-equity-wrapper");
+	if (tileAds) {
+		removeDOMElement(...tileAds);
+	}
+	const adsContainer = document.querySelector(".ad-container");
+	if(adsContainer){
+		removeDOMElement(adsContainer);
+	}
 }
 
 function matchDomain(domains) {
